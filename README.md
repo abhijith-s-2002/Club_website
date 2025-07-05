@@ -8,7 +8,7 @@ This project is built with **React + Vite**, showcasing the club's vision, team,
 
 ## 🚀 Live Website
 
-🔗 [Click here to visit the live site](elacsta.web.app/#hero)  
+🔗 [Click here to visit the live site](https://elacsta.web.app/#hero)  
 <!-- Replace the above link with your actual deployed URL (e.g., Vercel, Netlify, GitHub Pages) -->
 
 ---
